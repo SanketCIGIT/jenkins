@@ -5,4 +5,4 @@ echo "This is ditiss"
 a=1
 b=2
 sum=$(( $a+$b ))
-echo "$sum"
+echo "$sum sum "
